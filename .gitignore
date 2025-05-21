@@ -1,0 +1,16 @@
+# KiCad backup and autosave folders
+Macroboard-v2-backups/
+#auto_saved_files#/
+
+# Lock files (created when schematic or PCB is open)
+*.lck
+
+# Session/prl file (user-specific view settings)
+*.kicad_prl
+
+# Hidden files or temporary user data
+*~
+
+# VS Code or editor folders (optional)
+.vscode/
+.idea/
