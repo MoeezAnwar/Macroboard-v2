@@ -20,3 +20,16 @@ Designed Schemetic and PCB for the MacroPad V2 . Used DRC to check for any error
 
 
 **Total time spent: 3Hrs Mins**
+
+# May 22st: Made changes in the schemetics , added rotary encoder , added support for hot swapable switch
+Made major changes 
+ 1- Added Rotary encoder 
+ 2- Added Support for hot swapable switch
+ 3- Added Backlight ( static red)
+ 4- Added Copper fills
+ 5- Added 3d Models for the footprints
+
+![Macroboard](images/20250522-2316.png)
+
+
+**Total time spent: 16Hrs**
