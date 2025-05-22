@@ -1,0 +1,25 @@
+Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric'.
+Info: Total warnings: 2, errors: 2.
+Info: Processing symbol 'U1:OPKL:XIAO-RP2040-DIP'.
+Info: Processing symbol 'SW8:MX Switch Hot Swapable:Kailh_socket_MX'.
+Info: Processing symbol 'SW7:MX Switch Hot Swapable:Kailh_socket_MX'.
+Info: Processing symbol 'SW6:MX Switch Hot Swapable:Kailh_socket_MX'.
+Info: Processing symbol 'SW5:MX Switch Hot Swapable:Kailh_socket_MX'.
+Info: Processing symbol 'S1:PEC12R-4015F-S0024:XDCR_PEC12R-4015F-S0024'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'Q2:Package_TO_SOT_THT:TO-92'.
+Info: Processing symbol 'D4:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'D3:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_1206_3216Metric'.
+
+
+Warning: No net found for component S1 pad S2 (no pin S2 in symbol).
+Warning: No net found for component S1 pad S1 (no pin S1 in symbol).
+Error: S1 pad 2 not found in PEC12R-4015F-S0024 Rotary Encoder:XDCR_PEC12R-4015F-S0024.
+Error: S1 pad 1 not found in PEC12R-4015F-S0024 Rotary Encoder:XDCR_PEC12R-4015F-S0024.
+
+
+Info: Total warnings: 2, errors: 2.
