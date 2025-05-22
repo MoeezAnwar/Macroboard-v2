@@ -1864,7 +1864,7 @@
 		(at 96.52 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3a7cd4ac-5c48-4962-a56c-78d7b42406ca")
+		(uuid "201242b4-9c24-4df0-bd84-250cdcecc53a")
 	)
 	(junction
 		(at 45.72 82.55)
@@ -1920,6 +1920,26 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 34.29) (xy 251.46 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02f57b63-64cb-4e81-912c-fefadc92609f")
+	)
+	(wire
+		(pts
+			(xy 146.05 38.1) (xy 138.43 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0988b8c7-9e13-40ef-ae0c-cd7acec5be26")
+	)
+	(wire
+		(pts
 			(xy 218.44 59.69) (xy 199.39 59.69)
 		)
 		(stroke
@@ -1927,6 +1947,16 @@
 			(type default)
 		)
 		(uuid "0cba1a84-e3ed-4a18-945b-3c61edd0c202")
+	)
+	(wire
+		(pts
+			(xy 257.81 58.42) (xy 257.81 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fb84fdc-1e56-4efd-a3cc-5f714bacbf76")
 	)
 	(wire
 		(pts
@@ -1950,13 +1980,13 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 46.99) (xy 96.52 49.53)
+			(xy 281.94 24.13) (xy 281.94 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "13a85680-123e-46ff-b4ed-025f6004cff4")
+		(uuid "131e91f5-5d8b-40f8-8840-65779154bb13")
 	)
 	(wire
 		(pts
@@ -1990,6 +2020,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 58.42) (xy 257.81 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1722f3dc-ba71-4722-a5d9-d384ddab0cd0")
+	)
+	(wire
+		(pts
 			(xy 151.13 60.96) (xy 158.75 60.96)
 		)
 		(stroke
@@ -2020,6 +2060,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 46.99) (xy 128.27 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e70a3a8-715d-4066-8893-4cc594052c67")
+	)
+	(wire
+		(pts
 			(xy 219.71 31.75) (xy 229.87 31.75)
 		)
 		(stroke
@@ -2027,6 +2077,26 @@
 			(type default)
 		)
 		(uuid "1ebdecac-c765-40d9-b8a8-c668a28f6863")
+	)
+	(wire
+		(pts
+			(xy 243.84 64.77) (xy 243.84 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ee50fdf-f58c-4e2c-a62f-d6948365527c")
+	)
+	(wire
+		(pts
+			(xy 240.03 72.39) (xy 243.84 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f741924-7460-417a-b45b-47107387a78d")
 	)
 	(wire
 		(pts
@@ -2060,7 +2130,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 31.75) (xy 245.11 31.75)
+			(xy 234.95 31.75) (xy 252.73 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2080,6 +2150,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 50.8) (xy 238.76 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "325a0c64-b6c7-45b4-aba0-39914df848be")
+	)
+	(wire
+		(pts
 			(xy 208.28 77.47) (xy 208.28 83.82)
 		)
 		(stroke
@@ -2087,6 +2167,16 @@
 			(type default)
 		)
 		(uuid "35769628-f388-4062-a2c2-bdba8dbefe3e")
+	)
+	(wire
+		(pts
+			(xy 254 55.88) (xy 241.3 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35e9235e-e194-48e1-9d74-319f8fb12fd8")
 	)
 	(wire
 		(pts
@@ -2100,6 +2190,26 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 49.53) (xy 96.52 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36bd5931-5dcf-4b61-8473-b0ee2bc24427")
+	)
+	(wire
+		(pts
+			(xy 241.3 69.85) (xy 243.84 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39b854a4-2c60-4c0d-b4cd-c504e149986b")
+	)
+	(wire
+		(pts
 			(xy 196.85 57.15) (xy 196.85 72.39)
 		)
 		(stroke
@@ -2107,6 +2217,16 @@
 			(type default)
 		)
 		(uuid "39f2ba06-f5c5-4e62-ade0-a85e9f8c06e5")
+	)
+	(wire
+		(pts
+			(xy 138.43 38.1) (xy 138.43 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ea5c3f6-6e58-4915-8dd9-f02f69a5d69e")
 	)
 	(wire
 		(pts
@@ -2130,6 +2250,26 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 24.13) (xy 281.94 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "427aa0c5-74f4-4144-b807-6d4b38b83580")
+	)
+	(wire
+		(pts
+			(xy 240.03 53.34) (xy 240.03 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47376c63-b584-4cdc-ab77-ad3a13b2ef80")
+	)
+	(wire
+		(pts
 			(xy 45.72 60.96) (xy 45.72 71.12)
 		)
 		(stroke
@@ -2147,6 +2287,16 @@
 			(type default)
 		)
 		(uuid "49bd60e4-af0e-486c-9c01-26a47cb2bf67")
+	)
+	(wire
+		(pts
+			(xy 252.73 53.34) (xy 240.03 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49d0bb5b-48cd-491d-91c0-b4842fd4008d")
 	)
 	(wire
 		(pts
@@ -2197,6 +2347,16 @@
 			(type default)
 		)
 		(uuid "5e44f00f-b6af-43cf-9589-935f6ff4284c")
+	)
+	(wire
+		(pts
+			(xy 281.94 64.77) (xy 274.32 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5efc4d29-ce90-4087-92e0-0d09b1bac528")
 	)
 	(wire
 		(pts
@@ -2260,23 +2420,23 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 46.99) (xy 96.52 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "718c3b5b-12fb-4aef-a370-9742a403acd4")
-	)
-	(wire
-		(pts
-			(xy 242.57 34.29) (xy 245.11 34.29)
+			(xy 242.57 34.29) (xy 251.46 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "72fa1366-e3d8-424f-b870-934846e43996")
+	)
+	(wire
+		(pts
+			(xy 241.3 55.88) (xy 241.3 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78ad4beb-096d-4e4f-9b16-92afb2bce49a")
 	)
 	(wire
 		(pts
@@ -2287,6 +2447,16 @@
 			(type default)
 		)
 		(uuid "87226724-d7ca-407f-b5e9-96783268debf")
+	)
+	(wire
+		(pts
+			(xy 251.46 50.8) (xy 238.76 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "888a91b6-847c-4274-880e-6e81b92bd78a")
 	)
 	(wire
 		(pts
@@ -2350,6 +2520,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 31.75) (xy 252.73 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5a174e4-cc41-4045-9c43-caa2f3e37210")
+	)
+	(wire
+		(pts
 			(xy 198.12 24.13) (xy 198.12 64.77)
 		)
 		(stroke
@@ -2390,6 +2570,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 74.93) (xy 243.84 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af1f2322-f293-4562-9deb-62834b7827b1")
+	)
+	(wire
+		(pts
 			(xy 96.52 71.12) (xy 80.01 71.12)
 		)
 		(stroke
@@ -2417,6 +2607,16 @@
 			(type default)
 		)
 		(uuid "bf4b7af3-d44a-400d-920e-5648f0f4aa78")
+	)
+	(wire
+		(pts
+			(xy 254 29.21) (xy 254 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1f082f8-64bb-409a-b62b-9131de192ed2")
 	)
 	(wire
 		(pts
@@ -2470,7 +2670,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 29.21) (xy 245.11 29.21)
+			(xy 240.03 29.21) (xy 254 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2510,7 +2710,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 24.13) (xy 245.11 24.13)
+			(xy 198.12 24.13) (xy 257.81 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2600,6 +2800,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 36.83) (xy 128.27 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd854830-a054-4259-a5f1-554358866d19")
+	)
+	(wire
+		(pts
 			(xy 195.58 68.58) (xy 194.31 68.58)
 		)
 		(stroke
@@ -2681,6 +2891,208 @@
 			(project ""
 				(path "/a54fda52-d879-4286-8212-c7fd63f7fd84"
 					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PEC12R-4015F-S0024 Rotary Encoder:PEC12R-4015F-S0024")
+		(at 259.08 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "18a6e6dd-7d1f-4088-8efb-e36b0044abae")
+		(property "Reference" "S2"
+			(at 259.08 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PEC12R-4015F-S0024"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PEC12R-4015F-S0024 Rotary Encoder:XDCR_PEC12R-4015F-S0024"
+			(at 253.746 99.314 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Bourns"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "20.5mm"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/PEC12R-4015F-S0024/Bourns/view-part/?ref=eda"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer recommendations"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "07/21"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PEC12R-4015F-S0024/Bourns/view-part/?ref=snap"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "PEC12R-4015F-S0024"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Rotary Encoder Incremental 24 Quadrature, 2-Bit Horizontal"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Bourns"
+			(at 259.08 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "27822cf0-4f83-43bc-a037-9167e5444189")
+		)
+		(pin "2"
+			(uuid "9f9ba672-7f14-4576-a517-d4d6502de95e")
+		)
+		(pin "SH2"
+			(uuid "fdda3883-b572-4ab3-ba2a-dec2582adad3")
+		)
+		(pin "SH1"
+			(uuid "62dc87aa-588c-4d1e-80a3-5bc8cbdea69a")
+		)
+		(pin "C"
+			(uuid "64801ea7-4b36-4f3e-99a6-61270a1e359a")
+		)
+		(pin "B"
+			(uuid "2b1ca51f-23d9-4579-8f0b-129e9e559350")
+		)
+		(pin "A"
+			(uuid "6b833ab3-3634-4896-97e9-7d4ff82ee0ff")
+		)
+		(instances
+			(project ""
+				(path "/a54fda52-d879-4286-8212-c7fd63f7fd84"
+					(reference "S2")
 					(unit 1)
 				)
 			)
@@ -2791,7 +3203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92"
+		(property "Footprint" "Transistor:SOT-23"
 			(at 130.81 39.37 0)
 			(effects
 				(font
@@ -2942,7 +3354,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 128.27 36.83 0)
+		(at 146.05 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2951,7 +3363,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d9362af-0040-43d8-967e-5728530a1913")
 		(property "Reference" "#PWR03"
-			(at 128.27 40.64 0)
+			(at 146.05 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2960,7 +3372,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 128.27 31.75 0)
+			(at 146.05 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2968,7 +3380,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 36.83 0)
+			(at 146.05 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2977,7 +3389,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 36.83 0)
+			(at 146.05 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2986,7 +3398,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 128.27 36.83 0)
+			(at 146.05 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3644,210 +4056,6 @@
 		)
 	)
 	(symbol
-		(lib_id "PEC12R-4015F-S0024 Rotary Encoder:PEC12R-4015F-S0024")
-		(at 260.35 29.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "91fdd9a3-803c-499a-b4a7-086c37df5052")
-		(property "Reference" "S1"
-			(at 260.35 13.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PEC12R-4015F-S0024"
-			(at 260.35 16.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PEC12R-4015F-S0024:XDCR_PEC12R-4015F-S0024"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MF" "Bourns"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "20.5mm"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "None"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Price" "None"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/PEC12R-4015F-S0024/Bourns/view-part/?ref=eda"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer recommendations"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "07/21"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/PEC12R-4015F-S0024/Bourns/view-part/?ref=snap"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "PEC12R-4015F-S0024"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "Rotary Encoder Incremental 24 Quadrature, 2-Bit Horizontal"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Bourns"
-			(at 260.35 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "C"
-			(uuid "88c0886b-e732-4109-986c-0140c526a7c5")
-		)
-		(pin "2"
-			(uuid "60da1687-ce35-4a86-a8bb-4b942237a7ef")
-		)
-		(pin "1"
-			(uuid "6e155c38-9bd1-4f25-99b9-65d1a85ad1fa")
-		)
-		(pin "A"
-			(uuid "6926a511-186a-465a-8160-7a714fd61a1f")
-		)
-		(pin "B"
-			(uuid "337e3964-9c43-42f0-9969-51833478d4c0")
-		)
-		(pin "SH2"
-			(uuid "08c13d8f-382d-454c-b38d-2048c0d4b6c1")
-		)
-		(pin "SH1"
-			(uuid "19a57b33-a96e-4b92-a57a-85933681aff1")
-		)
-		(instances
-			(project ""
-				(path "/a54fda52-d879-4286-8212-c7fd63f7fd84"
-					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 76.2 82.55 90)
 		(unit 1)
@@ -3985,7 +4193,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 245.11 39.37 0)
+		(at 243.84 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3994,7 +4202,7 @@
 		(fields_autoplaced yes)
 		(uuid "bae0ca85-98e9-40fa-b099-d225203044cd")
 		(property "Reference" "#PWR06"
-			(at 245.11 45.72 0)
+			(at 243.84 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4003,7 +4211,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 245.11 44.45 0)
+			(at 243.84 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4011,7 +4219,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 245.11 39.37 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4020,7 +4228,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 245.11 39.37 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4029,7 +4237,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 245.11 39.37 0)
+			(at 243.84 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
