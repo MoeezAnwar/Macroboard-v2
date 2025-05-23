@@ -91,7 +91,7 @@ Founder, Flurryhost
 
 ## 🛡️ License
 
-Open source under the [MIT License](LICENSE). Feel free to use, modify, and share with credit.
+Open source under the [MIT License](LICENSE.txt). Feel free to use, modify, and share with credit.
 
 ---
 
