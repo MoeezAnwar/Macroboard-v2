@@ -1,6 +1,6 @@
 # 🧠 Macroboard v2 — Compact 4-Key Mechanical Macro Pad with Rotary Encoder
 
-![Macroboard Render](images/r20250522-2316.png)
+![Macroboard Render](images/20250522-2316.png)
 
 **Macroboard v2** is a compact, hot-swappable **4-key mechanical macro pad** featuring a high-quality rotary encoder, designed by **Moeez Anwar**. It’s perfect for streamlining workflows, creative shortcuts, and gaming macros. This open-source project includes full PCB design, schematics, 3D models, and all necessary files to build your own Macroboard.
 
