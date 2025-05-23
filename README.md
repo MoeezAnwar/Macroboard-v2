@@ -71,8 +71,8 @@ Included are 3D-printable case files located in the [`3d Model/`](./3d%20Model) 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MoeezAnwar/Macroboard.git
-   cd Macroboard
+   git clone https://github.com/MoeezAnwar/Macroboard-v2.git
+   cd Macroboard-v2
 Open and edit the project in KiCad 7+.
 
 Program the microcontroller with QMK or compatible firmware to customize key mappings and encoder behavior.
