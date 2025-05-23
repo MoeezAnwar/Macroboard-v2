@@ -33,3 +33,15 @@ Made major changes
 
 
 **Total time spent: 16Hrs**
+
+
+
+# May 23 : Completed Macroboard V2 
+Made major changes
+ 1- Designed Case for Macroboard in Autodesk
+ 2- Finalized all the 3d models
+ 3- Generated model files and ensured everything is working . 
+![Macroboard](images/20250523-1522.png)
+
+
+**Total time spent: 08Hrs**
