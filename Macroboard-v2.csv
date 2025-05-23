@@ -1,3 +1,4 @@
+# BOM - Components List
 "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
 "D1,D2,D3,D4","4","LED","","","","LED_SMD:LED_1206_3216Metric","~"
 "Q2","1","Q_NPN_BEC","","","","Transistor:SOT-23","~"
@@ -6,16 +7,14 @@
 "SW5,SW6,SW7,SW8","4","SW_DIP_x01","","","","MX Switch Hot Swapable:Kailh_socket_MX","~"
 "U1","1","XIAO-RP2040-DIP","","","","OPKL:XIAO-RP2040-DIP",""
 
-
-
-
-4usd XIAO-RP2040-DIP
-7usd Kailh Hotswap sockets for MX-style Keyswitches x50
-usd 39 Kailh Speed Pro Heavy Switch Set
-84 usd key cap Dwarf Factory Base xXx Brown SA Profile Artisan Keycap
-1.72 usd PEC12R-4015F-S0024
-0.60 usd x 4  Resistor_SMD:R_0603_1608Metric
-0.10 x1 Transistor:SOT-23
-0.20 usd x 4 LED_SMD:LED_1206_3216Metric
-10.13 PCB
-
+# Price List - Unit Prices (USD)
+"Item","Quantity or Set","Unit Price (USD)","Total Price (USD)","Notes"
+"XIAO-RP2040-DIP","1","4.00","4.00","Microcontroller"
+"Kailh Hotswap sockets for MX-style Keyswitches","50","7.00","7.00","Sockets pack"
+"Kailh Speed Pro Heavy Switch Set","1 set","39.00","39.00","Switches"
+"Keycap Dwarf Factory Base xXx Brown SA Profile Artisan","1","84.00","84.00","Keycap"
+"PEC12R-4015F-S0024 Rotary Encoder","1","1.72","1.72","Rotary Encoder"
+"Resistor_SMD:R_0603_1608Metric","4","0.15","0.60","Resistors"
+"Transistor:SOT-23","1","0.10","0.10","Transistor"
+"LED_SMD:LED_1206_3216Metric","4","0.05","0.20","LEDs"
+"PCB","1","10.13","10.13","Printed Circuit Board"
