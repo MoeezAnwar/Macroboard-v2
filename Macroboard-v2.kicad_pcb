@@ -2697,17 +2697,6 @@
 			(uuid "bf07dd39-9c60-48a7-a2a2-f9f1db878285")
 		)
 		(fp_circle
-			(center -8.95 -10.3)
-			(end -8.95 -10.554)
-			(stroke
-				(width 0.5)
-				(type solid)
-			)
-			(fill yes)
-			(layer "F.SilkS")
-			(uuid "faf4aa0e-945a-474b-932f-95daa3640bad")
-		)
-		(fp_circle
 			(center -7.807 -9.42)
 			(end -7.807 -9.674)
 			(stroke
@@ -2771,7 +2760,7 @@
 			(net 11 "Net-(Q2-B)")
 			(pinfunction "GPIO26/ADC0/A0")
 			(pintype "passive")
-			(uuid "746c26b9-3690-41da-af94-350b85966d79")
+			(uuid "f5a636d2-a162-4944-94ca-8820103474a5")
 		)
 		(pad "2" smd roundrect
 			(at -8.455 -5.08 180)
@@ -2793,7 +2782,7 @@
 			(net 8 "Net-(U1-GPIO27{slash}ADC1{slash}A1)")
 			(pinfunction "GPIO27/ADC1/A1")
 			(pintype "passive")
-			(uuid "dcb2cfa9-03f0-4074-952c-305cee188642")
+			(uuid "b02991b7-fc3e-40c3-899f-c5bcab6ca5d8")
 		)
 		(pad "3" smd roundrect
 			(at -8.455 -2.54 180)
@@ -2815,7 +2804,7 @@
 			(net 7 "Net-(U1-GPIO28{slash}ADC2{slash}A2)")
 			(pinfunction "GPIO28/ADC2/A2")
 			(pintype "passive")
-			(uuid "18cc6627-5437-459d-ae26-1ef6fffb0df7")
+			(uuid "c1b5b79f-e991-465d-b5f5-2693909c489f")
 		)
 		(pad "4" smd roundrect
 			(at -8.455 0 180)
@@ -2837,7 +2826,7 @@
 			(net 6 "Net-(U1-GPIO29{slash}ADC3{slash}A3)")
 			(pinfunction "GPIO29/ADC3/A3")
 			(pintype "passive")
-			(uuid "4e829c3c-a90d-4d7a-9384-4e80f7d7fc81")
+			(uuid "cc999f60-55d8-4b25-b4b6-669b194e4541")
 		)
 		(pad "5" smd roundrect
 			(at -8.455 2.54 180)
@@ -2859,7 +2848,7 @@
 			(net 9 "unconnected-(U1-GPIO6{slash}SDA-Pad5)")
 			(pinfunction "GPIO6/SDA")
 			(pintype "passive")
-			(uuid "14425a45-be06-413c-98d8-02fa3e6de9bf")
+			(uuid "e22aebf2-400e-4c59-acea-e09d3a765f91")
 		)
 		(pad "6" smd roundrect
 			(at -8.455 5.08 180)
@@ -2881,7 +2870,7 @@
 			(net 3 "unconnected-(U1-GPIO7{slash}SCL-Pad6)")
 			(pinfunction "GPIO7/SCL")
 			(pintype "passive")
-			(uuid "d9a52f8b-d8d4-4dcf-88d7-c2ad2175f9b2")
+			(uuid "9a5d9bee-ad62-4aba-936a-978ad2915ae1")
 		)
 		(pad "7" smd roundrect
 			(at -8.455 7.62 180)
@@ -2903,7 +2892,7 @@
 			(net 5 "Net-(U1-GPIO0{slash}TX)")
 			(pinfunction "GPIO0/TX")
 			(pintype "passive")
-			(uuid "025ffcb6-6442-470e-982d-15e8836e04b2")
+			(uuid "c341b753-400d-4270-b5a3-dffee7034425")
 		)
 		(pad "8" thru_hole circle
 			(at 7.62 7.62)
@@ -2925,7 +2914,7 @@
 			(pinfunction "GPIO1/RX")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a70244e3-066b-44db-ab46-1fc2eab69f63")
+			(uuid "fca5db92-be81-4da6-acf3-bf7a96ffe90e")
 		)
 		(pad "9" thru_hole circle
 			(at 7.62 5.08)
@@ -2947,7 +2936,7 @@
 			(pinfunction "GPIO2/SCK")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "23a224da-008b-4771-9319-b416f614a9da")
+			(uuid "ac9e77b9-35c0-4e46-9b92-7437ba075d85")
 		)
 		(pad "10" thru_hole circle
 			(at 7.62 2.54)
@@ -2969,7 +2958,7 @@
 			(pinfunction "GPIO4/MISO")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "dfadb5c9-f917-48e4-83bd-ab15d90f6cd6")
+			(uuid "520e9e11-9c47-4f39-bf48-c4c36273f0ea")
 		)
 		(pad "11" thru_hole circle
 			(at 7.62 0)
@@ -2991,7 +2980,7 @@
 			(pinfunction "GPIO3/MOSI")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "96df52cc-6f85-446a-b6a9-d6830d407e4b")
+			(uuid "21cee019-7343-47fb-878e-7e6a578ae435")
 		)
 		(pad "12" thru_hole circle
 			(at 7.62 -2.54)
@@ -3013,7 +3002,7 @@
 			(pinfunction "3V3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "e11a6c77-959a-4b39-a157-e295c8d3f2db")
+			(uuid "7420762f-80e7-4589-b07c-b0a6b80ad26c")
 		)
 		(pad "13" thru_hole circle
 			(at 7.62 -5.08)
@@ -3035,7 +3024,7 @@
 			(pinfunction "GND")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5ed22dce-5f91-41ce-b78d-a7cff9589b29")
+			(uuid "7e3e8160-1e2f-4bd9-8303-abf5a62a8d30")
 		)
 		(pad "14" thru_hole circle
 			(at 7.62 -7.62)
@@ -3057,7 +3046,7 @@
 			(pinfunction "VBUS")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "a1c1f48d-ed8a-4075-8ad1-fed278a9dcce")
+			(uuid "8d603000-fde7-4418-b264-54e40f366a96")
 		)
 		(embedded_fonts no)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
@@ -5573,9 +5562,9 @@
 		(uuid "115ab0c1-dcb9-43a0-902a-d851a4bd1747")
 	)
 	(gr_arc
-		(start 157.38 121.27)
-		(mid 156.50132 123.39132)
-		(end 154.38 124.27)
+		(start 158.7 121.3)
+		(mid 157.82132 123.42132)
+		(end 155.7 124.3)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5585,7 +5574,7 @@
 	)
 	(gr_line
 		(start 98.13 81.82)
-		(end 154.38 81.82)
+		(end 155.7 81.85)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5594,7 +5583,7 @@
 		(uuid "9065d658-df73-47ee-9245-a5894ec785fa")
 	)
 	(gr_line
-		(start 154.38 124.27)
+		(start 155.7 124.3)
 		(end 98.13 124.27)
 		(stroke
 			(width 0.05)
@@ -5604,9 +5593,9 @@
 		(uuid "97ff2c97-cca1-4cd1-b697-0d40c336cb3c")
 	)
 	(gr_arc
-		(start 154.38 81.82)
-		(mid 156.50132 82.69868)
-		(end 157.38 84.82)
+		(start 155.7 81.85)
+		(mid 157.82132 82.72868)
+		(end 158.7 84.85)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5637,8 +5626,8 @@
 		(uuid "cd9ee271-0798-4719-927b-0ab8e4010705")
 	)
 	(gr_line
-		(start 157.38 84.82)
-		(end 157.38 121.27)
+		(start 158.7 84.85)
+		(end 158.7 121.3)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -5656,6 +5645,44 @@
 		(fill no)
 		(layer "F.CrtYd")
 		(uuid "808a7634-5577-46e6-9053-2e071603b464")
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Fab")
+		(uuid "b797ff74-4479-451c-8525-927ddc421541")
+		(pts
+			(xy 155.6 115.7) (xy 158.7 115.6)
+		)
+		(height 13)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "3.1"
+			(at 157.15 127.55 0)
+			(layer "F.Fab")
+			(uuid "b797ff74-4479-451c-8525-927ddc421541")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 	)
 	(via
 		(at 124.2 103.6)
@@ -7133,7 +7160,7 @@
 				(xy 114.59453 120.710188) (xy 114.714811 120.830469) (xy 114.714813 120.83047) (xy 114.714815 120.830472)
 				(xy 114.860394 120.918478) (xy 115.022804 120.969086) (xy 115.093384 120.9755) (xy 115.093387 120.9755)
 				(xy 115.606613 120.9755) (xy 115.606616 120.9755) (xy 115.677196 120.969086) (xy 115.839606 120.918478)
-				(xy 115.985185 120.830472) (xy 116.012049 120.803608) (xy 116.087319 120.728339) (xy 116.148642 120.694854)
+				(xy 115.985185 120.830472) (xy 116.016157 120.7995) (xy 116.087319 120.728339) (xy 116.148642 120.694854)
 				(xy 116.218334 120.699838) (xy 116.262681 120.728339) (xy 116.364811 120.830469) (xy 116.364813 120.83047)
 				(xy 116.364815 120.830472) (xy 116.510394 120.918478) (xy 116.672804 120.969086) (xy 116.743384 120.9755)
 				(xy 116.743387 120.9755) (xy 117.256613 120.9755) (xy 117.256616 120.9755) (xy 117.327196 120.969086)
@@ -7424,7 +7451,7 @@
 				(xy 135.91953 120.710188) (xy 136.039811 120.830469) (xy 136.039813 120.83047) (xy 136.039815 120.830472)
 				(xy 136.185394 120.918478) (xy 136.347804 120.969086) (xy 136.418384 120.9755) (xy 136.418387 120.9755)
 				(xy 136.931613 120.9755) (xy 136.931616 120.9755) (xy 137.002196 120.969086) (xy 137.164606 120.918478)
-				(xy 137.310185 120.830472) (xy 137.337049 120.803608) (xy 137.412319 120.728339) (xy 137.473642 120.694854)
+				(xy 137.310185 120.830472) (xy 137.341157 120.7995) (xy 137.412319 120.728339) (xy 137.473642 120.694854)
 				(xy 137.543334 120.699838) (xy 137.587681 120.728339) (xy 137.689811 120.830469) (xy 137.689813 120.83047)
 				(xy 137.689815 120.830472) (xy 137.835394 120.918478) (xy 137.997804 120.969086) (xy 138.068384 120.9755)
 				(xy 138.068387 120.9755) (xy 138.581613 120.9755) (xy 138.581616 120.9755) (xy 138.652196 120.969086)
